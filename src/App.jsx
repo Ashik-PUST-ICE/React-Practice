@@ -58,6 +58,8 @@ const App = () => {
       <Loop/>
 
       <CondiRender/>
+
+      <CondiRender/>
       
     </div>
 
